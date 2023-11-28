@@ -14,3 +14,31 @@
 body{
     background-color:  #010101;
 }
+
+h1 {
+    text-align: center;
+    color: #0FD700;
+    font-size: 275%;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+    text-align: center;
+    color: #0FD700;
+    font-size: 200%;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    text-align: center;
+    color: #0FD700;
+    font-size: 150%;
+    /*font-weight: bold;*/
+    font-family: 'Courier New', Courier, monospace;
+}
+a.ctf:focus, a.ctf:hover {
+    font-style: italic;
+}
+.dropdown-menu{
+    background-color: #010101;
+}

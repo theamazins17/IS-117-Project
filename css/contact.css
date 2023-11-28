@@ -18,3 +18,13 @@ body{
 .form-group{
     color:  #0FD700;
 }
+h1 {
+    text-align: center;
+    color: #0FD700;
+    font-size: 275%;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.dropdown-menu{
+    background-color: #010101;
+}
