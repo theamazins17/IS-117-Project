@@ -42,3 +42,9 @@ a.ctf:focus, a.ctf:hover {
 .dropdown-menu{
     background-color: #010101;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
