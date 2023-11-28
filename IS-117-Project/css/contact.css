@@ -1,0 +1,20 @@
+/* DEVELOPER: David Villafranca, IS117-003, Fall 2023 */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+
+body{
+    background-color:  #010101;
+}
+
+.form-group{
+    color:  #0FD700;
+}
